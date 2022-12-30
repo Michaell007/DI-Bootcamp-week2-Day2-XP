@@ -1,3 +1,4 @@
+// Saisir du user
 let value = prompt("Entrer un nombre");
 
 // determinons si value est pair ou impair
